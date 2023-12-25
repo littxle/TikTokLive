@@ -58,4 +58,3 @@ print("Waiting for termination")
 thread.join()
 print("Shutdown pygame")
 pygame.quit()
-shhshs
